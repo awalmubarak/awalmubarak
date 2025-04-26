@@ -60,8 +60,9 @@ Git | Jira | Agile/Scrum | Slack (Async Collaboration)
 ---
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [linkedin.com/in/awalmubarak](https://linkedin.com/in/awalmubarak)
-- **Portfolio Site:** [awal.dev](https://awal.dev)
+
+- 🔗 [LinkedIn](https://linkedin.com/in/awalmubarak)
+- 💻 [Portfolio Website](https://awal.dev/)
 ---
 
 > **“Building products users love — one line of code at a time.”**
